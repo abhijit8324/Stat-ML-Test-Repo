@@ -1,8 +1,3 @@
 Testing Repos in Git
 
-Personal Token
-
-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
-
-git remote add origin https://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@github.com/abhijit8324/Stat-ML-Test-Repo.git
 
